@@ -275,7 +275,7 @@ How to Display Images from local folder
 2. use it in HTML file
    <img src='sachin.jpg' />
 
-
+Day3:
 
 Databinding
 ===========
