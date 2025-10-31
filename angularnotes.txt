@@ -53,6 +53,7 @@ npx @angular/cli new angular-wheather-app --standalone --style=css --routing=fal
 
 
 
+day2:
 
 vscode extensions
 =================
