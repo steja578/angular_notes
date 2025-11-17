@@ -383,7 +383,7 @@ Assignments:
 7. Have a toggle button and control Dark/Light theme of a page.
 8. Temperature Converter (celcius to fahrenheit)
 
-	
+day5:	
 CSS
 ****
 1. inline 		(style attribute)
