@@ -455,6 +455,7 @@ Note : Compononent can also be considered as directive, because it powers up the
 	<h1>Falseeeeeeeeeeeeeeeeeeeee</h1>
 }
 
+day6:
 
 @if() vs hidden
 ===============
