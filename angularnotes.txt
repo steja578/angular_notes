@@ -763,7 +763,7 @@ Custom Directive Assignment
 1. create a custom directive (zoomout) which scales the element by 150%.
 
 
-
+day10:
 	
 Angular Pipes
 =============
