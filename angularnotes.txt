@@ -578,6 +578,7 @@ employees = [
       Green if salary > 70,000 , Orange if between 40,000�70,000, Red if < 40,000
 
 
+day:8
 
 ng-template , ng-container
 ==========================
